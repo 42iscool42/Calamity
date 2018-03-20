@@ -6,7 +6,7 @@ If you spot things which can be improved, go ahead and either make a pull reques
 
 Keep in mind, this is still in very early development.
 
-Very. Early. Not even the resource points are done.
+Very. Early. ~~Not even the resource points are done.~~
 
 # Videos
 * The original release video: https://www.youtube.com/watch?v=uS1vwXRyqtU
